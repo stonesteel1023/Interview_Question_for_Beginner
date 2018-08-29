@@ -4,22 +4,10 @@
 
 </div>
 
-# Technical Interview Guidelines for beginners
-
 <div align=center>
 
 [![author](https://img.shields.io/badge/author-jbee-ff69b4.svg?style=flat-square)](http://friendly-belief.surge.sh/)
-[![CONTRIBUTORS](https://img.shields.io/badge/contributors-31-green.svg?style=flat-square)](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/CONTRIBUTING.md)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/LICENSE)
-[![HitCount](http://hits.dwyl.io/JaeYeopHan/Interview_Question_for_Beginner.svg)](http://hits.dwyl.io/JaeYeopHan/Interview_Question_for_Beginner)
-
-<a href="https://github.com/JaeYeopHan/Interview_Question_for_Beginner/graphs/contributors"><img src="https://opencollective.com/interview_question_for_beginner/contributors.svg?width=720"></a>
-
-</div>
-
-> 해당 Repository 에 기여를 해주신 분들입니다. 감사합니다. :pray:
-
-</br>
 
 ## :memo: Table of Contents
 
@@ -208,6 +196,7 @@
 
 ## :bulb: Algorithm (알고리즘) [Link](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Algorithm)
 
+<a href=http://jhnah917.tistory.com/m/77>알고리즘책추천</a>
 - 손코딩 및 코딩 테스트 대비  
   => 대부분의 내용이 코드이기 때문에 별도의 [Java Algorithm Training Repository](https://github.com/JaeYeopHan/algorithm_basic_java)에 저장합니다.
 - 코딩 테스트를 위한 Tip
