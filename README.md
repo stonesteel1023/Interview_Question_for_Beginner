@@ -344,6 +344,50 @@
 - [A perfect guide for cracking a javascript interview a developers perspective](https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d)  
   => [@JayJin](https://github.com/milooy)님이 추천하신 자바스크립트 인터뷰 아티클입니다.
 
+- 제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT 기업 도전기 - 참석 후기
+https://jojoldu.tistory.com/280 
+
+- 웹개발자 기준 비전공자 신입으로서 전공자한테 안 밀리고 살아남는 법.tip
+https://okky.kr/article/372485
+
+- 학습방법 및 웹 백엔드 개발자 학습 로드맵
+발표자료 https://www.slideshare.net/javajigi/ss-66877363 
+참석후기 https://jojoldu.tistory.com/46 
+
+- 프로그래밍, 어떻게 공부할 것인가
+인강 https://mindscale.kr/course/how-to-learn-prg 
+기록 https://github.com/Gyubin/TIL/blob/master/ETC/how_to_study_programming.md 
+
+- 규빈님의 TIL
+https://github.com/Gyubin/TIL 
+
+- 비전공 학원출신 SI개발자, 유명스타트업 들어간.ssul
+https://jojoldu.tistory.com/247 
+
+- 창천향로님 세미나 후기
+https://jojoldu.tistory.com/category/%EC%84%B8%EB%AF%B8%EB%82%98 
+
+- 진유림님의 신입개발자 생활백서
+https://www.slideshare.net/jayjin0427/ss-71896768%20 
+
+- 페이스북 개발자 인터뷰 준비기
+https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af 
+
+- 개발자가 밤새는것은 과연 용서가 되는가
+https://okky.kr/article/493136
+
+- 카카오 면접 시 듣게되는 70가지 질문
+http://www.bloter.net/archives/245529 
+
+- 소프트웨어 개발자가 되기는 왜 어려운가?
+https://okky.kr/article/500200
+
+- 알고리즘과 자료구조 딕셔너리
+https://xlinux.nist.gov/dads/#L 
+
+- 문과출신 싱가폴 해외취업 개발자 마르코님 브런치
+https://brunch.co.kr/@imagineer#info 
+
 </br>
 
 ---
